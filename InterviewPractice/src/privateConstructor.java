@@ -2,7 +2,7 @@
 class privateConstructor {
 	
 	private int a;
-	privateConstructor() {
+	private privateConstructor() {
 		a=10;
 	}
 class derived extends privateConstructor{
